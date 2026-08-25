@@ -437,9 +437,9 @@ The future of threat hunting is likely to be a collaboration between **human exp
 
 ---
 
-LinkedIn: []
+LinkedIn: [https://www.linkedin.com/feed/update/urn:li:activity:7497923042426208257/]
 
-X: []
+X: [https://x.com/charisma1385/status/2092156102162915775]
 
 ---
 
